@@ -8,8 +8,9 @@ npm install --save mibicitubici-opendata
 
 ```javascript
 import api from 'mibicitubic-open-data'
-api().then( (estaciones) => {
+api().then( (info) => {
   // implementar mi codigo con el resultado de las estaciones
+  console.log(info.estaciones)
 })
 ```
 
