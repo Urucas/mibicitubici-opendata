@@ -1,8 +1,8 @@
 {
-  "name": "mibicitubici-as-a-service",
+  "name": "mibicitubici-saas",
   "version": "0.0.1",
   "description": "API to get Rosario public bycicle stations info",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "./node_modules/babel-cli/bin/babel.js lib -d dist",
     "prepublish": "npm run build",
