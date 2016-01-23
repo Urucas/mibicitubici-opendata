@@ -1,0 +1,8 @@
+{
+  "name" : "mibicitubici-opendata",
+  "description" : "API para obtener la informacion de las bicicletas publicas de la ciudad de Rosario",
+  "repository": "https://github.com/Urucas/mibicitubici-opendata",
+  "keywords": [
+    "rosario", "bici", "bicicleta", "datos abiertos", "opendata", "informacion"
+  ]
+}
