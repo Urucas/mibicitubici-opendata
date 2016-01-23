@@ -1,2 +1,2 @@
 # mibicitubici-as-a-service
-API to get Rosario public bycicle stations info
+API para obtener la informacion de las bicicletas publicas de la ciudad de Rosario
