@@ -1,4 +1,4 @@
-# mibicitubici-as-a-service
+# mibicitubici-opendata
 API para obtener la informacion de las bicicletas publicas de la ciudad de Rosario
 
 #Uso
