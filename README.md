@@ -26,3 +26,8 @@ api().then( (estaciones) => {
 
 #Crear mi propio server en Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Urucas/mibicitubici-opendata)
+
+
+#Licencia
+La informaci&oacute;n es obtenida en tiempo real desde el sitio provisto por la
+municipalidad de Rosario, [http://www.mibicitubici.gob.ar/estacione.aspx](http://www.mibicitubici.gob.ar/estacione.aspx)
