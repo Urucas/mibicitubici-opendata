@@ -1,5 +1,5 @@
 {
-  "name": "mibicitubici-saas",
+  "name": "mibicitubici-opendata",
   "version": "0.0.1",
   "description": "API to get Rosario public bycicle stations info",
   "main": "dist/index.js",
