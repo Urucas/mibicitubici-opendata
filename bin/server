@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+var logger = require('semafor')()
+var server = require('../dist/server.js').default
+var port = process.env.PORT || "5000"
+server(port);
+logger.ok("Server working")
